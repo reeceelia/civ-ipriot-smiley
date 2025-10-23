@@ -71,8 +71,15 @@ python3 main.py
 
    | Type                    | name       | value          |
    | ----------              | ---------- | -------------- |
-   | built-in primitive type | _          |  _             |
-   | built-in composite type | _          |  _             |
+   | built-in primitive type | _Y          |  _ self.YELLOW            |
+   | built-in composite type | _self.pixels = []          |  _             O, Y, Y, Y, Y, Y, Y, O,
+            Y, Y, Y, Y, Y, Y, Y, Y,
+            Y, Y, Y, Y, Y, Y, Y, Y,
+            Y, Y, Y, Y, Y, Y, Y, Y,
+            Y, Y, Y, Y, Y, Y, Y, Y,
+            Y, Y, Y, Y, Y, Y, Y, Y,
+            Y, Y, Y, Y, Y, Y, Y, Y,
+            O, Y, Y, Y, Y, Y, Y, O,            |
    | user-defined type       | _          |  _             |
 
 2. Fill in (`_`) the following table based on the code in `smiley.py`:
