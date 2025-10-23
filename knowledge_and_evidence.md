@@ -52,6 +52,7 @@ Address the following tasks and questions based on the code provided in this rep
 2. Clone your repository locally
 3. Run the project locally by executing the `main.py` file
 4. Evidence this by providing screenshots of the project directory structure and the output of the `main.py` file
+<img width="1581" height="706" alt="image" src="https://github.com/user-attachments/assets/4ce6dc5c-c091-42bd-9aea-dd5a0c9785b3" />
 
 ![Local Execution (INSERT YOUR SCREENSHOT)](screenshots/CREATE_A_SCREENSHOT_OF_YOUR_local_setup.png)
 
